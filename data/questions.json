@@ -1,0 +1,107 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "answers": ["Paris", "London", "Berlin", "Madrid"],
+    "correctAnswer": "Paris"
+  },
+  {
+    "question": "What is 2 + 2?",
+    "answers": ["3", "4", "5", "6"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "What is 4 + 2?",
+    "answers": ["3", "4", "5", "6"],
+    "correctAnswer": "6"
+  },
+  {
+    "question": "What is 1 + 2?",
+    "answers": ["3", "4", "5", "6"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "What is 3 + 2?",
+    "answers": ["3", "4", "5", "6"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "What is 3 + 3?",
+    "answers": ["3", "4", "5", "6"],
+    "correctAnswer": "6"
+  },
+  {
+    "question": "What is 4 + 1?",
+    "answers": ["3", "4", "5", "6"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "What is 5 + 0?",
+    "answers": ["3", "4", "5", "6"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "What is 4 - 1?",
+    "answers": ["3", "4", "5", "6"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "What is 4 + 0?",
+    "answers": ["3", "4", "5", "6"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "What is 2 + 2 + 2?",
+    "answers": ["3", "4", "5", "6"],
+    "correctAnswer": "6"
+  },
+  {
+    "question": "What is 2 + 2 + 1?",
+    "answers": ["3", "4", "5", "6"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "What is 1 + 1 + 1?",
+    "answers": ["3", "4", "5", "6"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "What is 1 + 1 + 2?",
+    "answers": ["3", "4", "5", "6"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "What is 1 + 2 + 1?",
+    "answers": ["3", "4", "5", "6"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "What is 5 - 2?",
+    "answers": ["3", "4", "5", "6"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "What is (2 - 6) - 1?",
+    "answers": ["3", "4", "5", "6"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "What is 2 + 0 + 1?",
+    "answers": ["3", "4", "5", "6"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "What is 2 + 0 + 4?",
+    "answers": ["3", "4", "5", "6"],
+    "correctAnswer": "6"
+  },
+  {
+    "question": "What is 6 + 0?",
+    "answers": ["3", "4", "5", "6"],
+    "correctAnswer": "6"
+  },
+  {
+    "question": "What is 2 + 2 + 0?",
+    "answers": ["3", "4", "5", "6"],
+    "correctAnswer": "4"
+  }
+]
